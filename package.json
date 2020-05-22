@@ -1,0 +1,25 @@
+{
+  "name": "express-crash-course",
+  "version": "1.0.0",
+  "description": "learning from https://www.youtube.com/watch?v=L72fhGm1tfE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickfinnigan/express-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickfinnigan/express-crash-course/issues"
+  },
+  "homepage": "https://github.com/patrickfinnigan/express-crash-course#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "uuid": "^8.1.0"
+  }
+}
